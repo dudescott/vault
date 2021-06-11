@@ -1,6 +1,6 @@
 from Crypto.Cipher import AES
 import sqlite3 as sql
-# import clipboard
+import clipboard
 import os
 
 BLOCK_SIZE = 16  # Bytes
