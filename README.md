@@ -1,4 +1,4 @@
-# Vault
+# The Vault
 Encryption and password management tool. Encrypt files and store passwords with ease using AES-256 encryption. 
 
 ![image](https://user-images.githubusercontent.com/49696523/169665780-ab28d00f-e91d-4082-8587-aff910277354.png)
