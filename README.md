@@ -15,3 +15,7 @@ This website can help you out. https://mothereff.in/byte-counter
 
 # Running the program
 In your terminal run `python3 init.py` in the directory where you have this repo saved. 
+
+
+# iPhone Version
+There is also an iPhone version! (as you could tell from the title). For this, I used Pythonista3 to run the code (it's like $10 :( btw). For this one, you would just run the `ivault.py` script and you will get a command line interface for the methods of the desktop version.
